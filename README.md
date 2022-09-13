@@ -75,7 +75,7 @@
 <!-- ---------------make this visible after learning vercel --------------->
 ![Top Langs](https:)
 
-[![Ashutosh's github activity graph](https:)](https:)
+<!-[![Ashutosh's github activity graph](https:)](https:)----->
 
 ### 😜Here's a Joke for you:
 
