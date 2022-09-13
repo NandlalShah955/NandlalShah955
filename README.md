@@ -33,7 +33,7 @@
 
 <!-- [Click](https://yourLink.netlify.app/) -->
 
-- 🔭 I’m currently working on [Naukri.com](https://github.com/Shivanshu5998s/Nordstrom-Website-Clone-)
+- 🔭 I’m currently working on [Naukri.com](https://github.com/NandlalShah955/tropical-action-4372)
 
 - 🌱 I’m currently learning **React, MERN Stack**
 
@@ -45,7 +45,7 @@
 
 - 📫 How to reach me **nandlalsaw789@gmail.com**
 
-- 📄 Know about my experiences [Resume]()
+- 📄 Know about my experiences [Resume](https://www.canva.com/design/DAFMFpSNgmQ/CQTcJVsXvflS6DgrW4C_gQ/edit?utm_content=DAFMFpSNgmQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - ⚡ Fun fact **😂**
 
