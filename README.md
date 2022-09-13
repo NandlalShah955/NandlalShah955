@@ -73,7 +73,7 @@
 <!-- title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000& -->
 
 <!-- ---------------make this visible after learning vercel --------------->
-![Top Langs](https:)
+
 
 
 
