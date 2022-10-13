@@ -45,7 +45,7 @@
 
 - 📫 How to reach me **nandlalsaw789@gmail.com**
 
-- 📄 Know about my experiences [Resume]()
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1EMSvs655ILxPaY1Sd1z6gmcjjc8ZQW7v/view?usp=sharing)
 
 - ⚡ Fun fact **😂**
 
