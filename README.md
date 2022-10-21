@@ -2,8 +2,7 @@
 
 <!-- # Hey there :wave: -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshu5998s&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshu5998s" /> </p>
-
+ <p align="left"> <img src="https://camo.githubusercontent.com/9611c6c1ed44e9c56052e45c9a0eb1cc5ba222bfa9c5d939e145bc4d1484abc5/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d737572616a39373136266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="NandlalShah955" /> </p>
 
 <p align="center">
     <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img
@@ -17,7 +16,7 @@
 
 <h1 align="center">Hi 👋, I'm Nandlal Saw</h1>
 <h3 align="center">A passionate Full Stack developer from India  </h3>
- <p align="left"> <img src="https://camo.githubusercontent.com/9611c6c1ed44e9c56052e45c9a0eb1cc5ba222bfa9c5d939e145bc4d1484abc5/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d737572616a39373136266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="NandlalShah955" /> </p>
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivanshu5998s" alt="shivanshu5998s" /></a> </p>
 
