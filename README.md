@@ -69,8 +69,8 @@
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivanshu5998s&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- ---------------make this visible after learning vercel --------------->
 
-<a href="https://github.com/NandlalShah955"><img src="https://github-readme-stats.vercel.app/api?username=Shivanshu5998s&theme=radical&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true" alt="Shivanshu5998s's GitHub stats" /></a> -->
-<!-- title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&
+<!----- <a href="https://github.com/NandlalShah955"><img src="https://github-readme-stats.vercel.app/api?username=Shivanshu5998s&theme=radical&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true" alt="Shivanshu5998s's GitHub stats" /></a> -->
+<!-- title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000& ----->
 
 <!-- ---------------make this visible after learning vercel --------------->
 
