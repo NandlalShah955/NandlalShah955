@@ -24,7 +24,7 @@
 
 ## About Me
 
-<!-- <img align='right' src="https://media.bitdegree.org/storage/media/images/2018/08/what-is-a-web-developer.jpg" width="260" height='230'> -->
+ <img align='right' src="https://media.bitdegree.org/storage/media/images/2018/08/what-is-a-web-developer.jpg" width="260" height='230'> 
 ⚡Enthusiastic aspiring full-stack web developer specialized in MERN stack having fascination towards computer and technology. Keen to create new and innovative websites by showcasing my skills. Apart from that a great team player, ability to work with different kinds of people with different thinkings. In my spare time, I like to gain skills by which I can create something productive. I am looking to start my career as a web-developer with a reputed firm driven by technology.
 
 <br>
@@ -64,7 +64,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=NandlalShah955&theme=highcontrast)](https://git.io/streak-stats)
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NandlalShah955&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  -->
 
 
 <!-- ---------------make this visible after learning vercel --------------->
