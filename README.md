@@ -35,7 +35,7 @@
 
 - 🌱 I’m currently learning **React, MERN Stack**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://cozy-cannoli-4bbe80.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://nandlalshah955.github.io/)
 
 - 📝 I regularly write articles on [Medium]()
 
