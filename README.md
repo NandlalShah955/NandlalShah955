@@ -66,7 +66,6 @@
 
 
 
-<!-- ---------------make this visible after learning vercel --------------->
 
  <a href="https://github.com/NandlalShah955"><img src="https://github-readme-stats.vercel.app/api?username=NandlalShah955&theme=radical&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true" alt="NandlalShah955 GitHub stats" /></a> 
 <!-- title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000& 
