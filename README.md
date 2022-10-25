@@ -73,7 +73,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NandlalShah955&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- ---------------make this visible after learning vercel --------------->
 
 
 
