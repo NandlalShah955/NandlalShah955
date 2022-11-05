@@ -76,7 +76,7 @@
 
 
 
-### 😜Here's a Joke for you:
+### 😜Here's a Joke for you:It is Easier to stay awake till 6am,then to wake up at 6am!
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
