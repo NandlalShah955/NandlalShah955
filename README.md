@@ -36,7 +36,7 @@
 
 - 🔭 I’m currently working on [SkinStore.com](https://github.com/NandlalShah955/valid-morning-8854)
 
-- 🌱 I’m currently learning **React, MERN Stack**
+- 🌱 I’m currently learning **Advanced Backend, MERN Stack**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://nandlalshah955.github.io/)
 
