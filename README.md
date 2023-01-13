@@ -68,12 +68,15 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=NandlalShah955&theme=highcontrast)](https://git.io/streak-stats)
 
 
+![Summary](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NandlalShah955&theme=default)
 
 
- <a href="https://github.com/NandlalShah955"><img src="https://github-readme-stats.vercel.app/api?username=NandlalShah955&theme=radical&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true" alt="NandlalShah955 GitHub stats" /></a> 
+
+<!--  <a href="https://github.com/NandlalShah955"><img src="https://github-readme-stats.vercel.app/api?username=NandlalShah955&theme=radical&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true" alt="NandlalShah955 GitHub stats" /></a>  -->
+
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NandlalShah955&theme=default)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NandlalShah955&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
