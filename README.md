@@ -76,12 +76,7 @@
     <img width="400px" height="200px" alt="Zuhed's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandlalShah955&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
     <br />
     <br />
-    <img src="https://activity-graph.herokuapp.com/graph?username=NandlalShah955&bg_color=161B22&color=9e9e9e&line=bababa&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 </p>
-
-
-
-
 
 
 
