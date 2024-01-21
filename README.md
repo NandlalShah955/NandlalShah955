@@ -2,8 +2,14 @@
 
 <!-- # Hey there :wave: -->
 
- <p align="left"> <img src="https://camo.githubusercontent.com/9611c6c1ed44e9c56052e45c9a0eb1cc5ba222bfa9c5d939e145bc4d1484abc5/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d737572616a39373136266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="NandlalShah955" /> </p>
-
+<p align="left">
+    <a href="https://github.com/zuhedshaikh95">
+        <img src="https://komarev.com/ghpvc/?username=zuhedshaikh95&label=Profile%20views&color=0e75b6&style=flat" alt="zuhedshaikh95" />
+    </a>
+    <a href="https://github.com/zuhedshaikh95?tab=followers">
+        <img src="https://img.shields.io/github/followers/zuhedshaikh95?label=Followers&style=social" alt="followers-count">
+    </a>
+</p>
 
 
 
