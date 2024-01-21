@@ -20,7 +20,6 @@
 
 <div align="center" display="flex">
     <img width="50%" src="https://i.ibb.co/T1B2pf5/Mern-logo-repo.png" alt="Mern-logo-repo">
-    <img align="" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
 </div>
 
 <h1 align="center">Hi 👋, I'm Nandlal Saw</h1>
