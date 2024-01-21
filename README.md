@@ -38,9 +38,9 @@
 
 <!-- [Click](https://yourLink.netlify.app/) -->
 
-- 🔭 I’m currently working on [Chargbee.com](https://github.com/Dhamisir/abandoned-reaction-8426)
+- 🔭 I’m currently working on Account Intelligence Project 
 
-- 🌱 I’m currently learning **Advanced Backend, MERN Stack**
+- 🌱 I’m currently learning **Advanced NodeJS Concepts**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://nandlalshah955.github.io/)
 
