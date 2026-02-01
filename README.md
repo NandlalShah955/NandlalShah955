@@ -42,7 +42,7 @@
 
 - 🌱 I’m currently learning **Advanced NodeJS Concepts**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://nandlalshah955.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://nandlalsaw-portfolio.netlify.app/)
 
 - 📝 I regularly write articles on [Medium]()
 
