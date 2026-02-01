@@ -38,7 +38,7 @@
 
 <!-- [Click](https://yourLink.netlify.app/) -->
 
-- 🔭 I’m currently working on Account Intelligence Project 
+- 🔭 I’m currently working on Xelon Digital - A Global Music Distributor
 
 - 🌱 I’m currently learning **Advanced NodeJS Concepts**
 
