@@ -50,7 +50,7 @@
 
 - 📫 How to reach me **nandlalsaw789@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1EMSvs655ILxPaY1Sd1z6gmcjjc8ZQW7v/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1yQkWUakT1sHQL8WavK40y1lvqszp2tHW/view?usp=sharing)
 
 - ⚡ Fun fact **It is Easier to stay awake till 6am,then to wake up at 6am!😂**
 
